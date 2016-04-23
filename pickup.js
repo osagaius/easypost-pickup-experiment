@@ -1,4 +1,4 @@
-var apiKey = 'qqPDP6dVCOBNyCzHpd1CvA';
+var apiKey = 'YOUR_TEST_KEY';
 var easypost = require('node-easypost')(apiKey);
 var moment = require('moment');
 
