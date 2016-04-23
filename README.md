@@ -5,7 +5,7 @@
 
 
 ####To use:
-⋅⋅* Get a free API key [here](https://www.easypost.com)
-⋅⋅* Replace the API_KEY variable your test API key
-⋅⋅* run 'npm install'
-⋅⋅* run 'node pickup.js'
+#####Get a free API key [here](https://www.easypost.com)
+#####Replace the API_KEY variable your test API key
+#####Run 'npm install'
+#####Run 'node pickup.js'
